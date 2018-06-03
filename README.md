@@ -340,7 +340,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111063) Ugik Hariyanto
 * (151111064) Moch Afriza
 ### Topic & Description
-
+* Jam Dinding Dengan Bandul
 ### Github Repository
 * [https://github.com/ugik1880/projekGrafis](https://github.com/ugik1880/projekGrafis)
 
